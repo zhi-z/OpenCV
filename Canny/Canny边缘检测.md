@@ -33,7 +33,7 @@
 3.2 python API
 
 ```
-edge = cv2.Canny(image, threshold1, threshold2[, edges[, apertureSize[, L2gradient ]]])  
+edge = cv2.Canny(image, threshold1, threshold2[, edges[, apertureSize[, L2gradient ]]]) 
 ```
 
 edge  --  函数返回 一副二值图（黑白），其中包含检测出来的边缘
