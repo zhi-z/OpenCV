@@ -1,4 +1,4 @@
-# 亚像素级别角点检测
+# 亚像素级别角点检测(Python实现)
 
 以上两节学习了harris和Shi-Tomasi角点检测,但是在实际中精度不是很高,所以引入亚像素角点检测.以提高检测精准度.
 
@@ -18,4 +18,5 @@
 
 ## 3 代码演示
 
-首先找出角点 是使用Shi-Tomasi实现,然后在做亚像素角点检测.在Opencv中可以使用goodFeaturesToTrack函数找出角点,然后使用  函数你拟合出亚像素级别的角点.在使用实现.具体的代码演示在Python中.
+首先找出角点 是使用Shi-Tomasi实现,然后在做亚像素角点检测.在Opencv中可以使用goodFeaturesToTrack函数找出角点,然后使用  函数你拟合出亚像素级别的角点.在使用实现.具体的代码演示在[Python中](https://github.com/zhi-z/OpenCV/blob/master/OpenCV_Tutorial/FeatureExtraction/CornerDetection/SubpixelCorner/SubpixelCornerDetection.ipynb).
+

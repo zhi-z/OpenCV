@@ -8,8 +8,6 @@
 
 在代码演示可以看到．
 
-
-
 ## 参看资料
 
 1.[图像特征提取与描述](https://blog.csdn.net/sinat_31135199/article/details/53147915)
