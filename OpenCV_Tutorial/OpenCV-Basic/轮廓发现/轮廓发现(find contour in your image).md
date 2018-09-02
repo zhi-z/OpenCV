@@ -6,7 +6,7 @@
 
 ## 2 Opencv API
 
-- findContours发现轮廓
+-  findContours发现轮廓
 - drawContours绘制轮廓
 
 ## 3 演示过程(Opencv Python实现)
