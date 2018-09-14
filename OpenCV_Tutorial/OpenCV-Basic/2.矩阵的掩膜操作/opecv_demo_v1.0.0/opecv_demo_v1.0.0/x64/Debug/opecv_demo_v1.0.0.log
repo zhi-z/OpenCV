@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\datah\desktop\github\opencv\opencv_tutorial\opencv-basic\2.矩阵的掩膜操作\opecv_demo_v1.0.0\opecv_demo_v1.0.0\main.cpp(37): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  opecv_demo_v1.0.0.vcxproj -> C:\Users\DataH\Desktop\GitHub\OpenCV\OpenCV_Tutorial\OpenCV-Basic\2.矩阵的掩膜操作\opecv_demo_v1.0.0\x64\Debug\opecv_demo_v1.0.0.exe
