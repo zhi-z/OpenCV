@@ -14,8 +14,6 @@
 
 代码详见[ipynb文件](https://github.com/zhi-z/OpenCV/blob/master/OpenCV_Tutorial/FeatureExtraction/CornerDetection/harris/Harris.ipynb).
 
-
-
 ## 参考文献
 
 - [Harris角点检测](https://www.cnblogs.com/king-lps/p/6375424.html)
