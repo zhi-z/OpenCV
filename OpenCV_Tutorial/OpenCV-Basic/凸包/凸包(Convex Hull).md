@@ -14,7 +14,7 @@
   - 从p0开始极坐标扫描,依次添加p1...pn(排序顺序是根据极坐标的角度大小,逆时针方向)
   - 对每个点pi来说,如果添加pi点到凸包中导致一个左转向(逆时针方向)则添加改点到凸包,反之如果导致一个右转向(顺时针方向)删除改掉从凸包中,如下图所示
 
-  ![graham](https://raw.githubusercontent.com/zhi-z/OpenCV/master/OpenCV_Tutorial/OpenCV-Basic/%E5%87%B8%E5%8C%85/image/graham.png)
+  ![graham](image/graham.png)
 
   
 

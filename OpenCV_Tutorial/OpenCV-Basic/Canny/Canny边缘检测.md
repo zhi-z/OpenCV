@@ -14,19 +14,13 @@
 
 2.4 非最大信号抑制
 
-![1524190992627](C:\Users\JH\AppData\Local\Temp\1524190992627.png)
-
 2.4 高低阈值输出二值化图像（把高于或低于阈值的值去掉）
-
-![1524191496205](C:\Users\JH\AppData\Local\Temp\1524191496205.png)
 
 常见的高低阈值比一般为2:1或者3:1
 
 ## 3.Canny API
 
 3.1 c++ API
-
-![1524191828433](C:\Users\JH\AppData\Local\Temp\1524191828433.png)
 
 一般用L1做归一化。
 

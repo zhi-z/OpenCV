@@ -9,7 +9,7 @@
 
 假设你已经通过下图得到一个肤色直方图(Hue-Saturation)， 旁边的直方图就是 模型直方图 ( 代表手掌的皮肤色调).你可以通过掩码操作来抓取手掌所在区域的直方图,左边的手掌获取到直方图模型,另一张手掌图(测试图像) 以及对应的整张图像的直方图.我们要做的就是使用 模型直方图 (代表手掌的皮肤色调) 来检测测试图像中的皮肤区域。
 
-![](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/OpenCV-Basic/直方图/直方图反向投影/image/BackProjection.png)
+![](image/BackProjection.png)
 
 所谓反向投影就是首先计算某一特征的直方图模型，然后使用模型去寻找图像中存在的该特征。”
 

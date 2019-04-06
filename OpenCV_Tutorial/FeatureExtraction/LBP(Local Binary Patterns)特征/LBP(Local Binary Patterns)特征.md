@@ -6,21 +6,21 @@
 
 ## 1 简介
 
-![1536161406947](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/LBP(Local Binary Patterns)特征/image/lbp.png)
+![1536161406947](image/lbp.png)
 
 通过局部特征就可以检测,通过以上第一个图的得到局部二值化特征之后,就可以根据特征,判断是什么类型的特征.
 
 ### 1.1 LBP表达
 
-![1536161741034](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/LBP(Local Binary Patterns)特征/image/expression.png)
+![1536161741034](image/expression.png)
 
-![1536162174567](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/LBP(Local Binary Patterns)特征/image/lbp_1.png)
+![1536162174567](image/lbp_1.png)
 
-![1536162706596](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/LBP(Local Binary Patterns)特征/image/lbp_2.png)
+![1536162706596](image/lbp_2.png)
 
 所有不是前面两者的都叫做非同一模式.
 
-![1536162905743](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/LBP(Local Binary Patterns)特征/image/lbp_3.png)
+![1536162905743](image/lbp_3.png)
 
 通过使用统一的模式,维度下降了,运算速度得到提高.
 

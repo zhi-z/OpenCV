@@ -8,16 +8,16 @@
 
 ## 1 获取像素指针
 
-![1536765728598](C:\Users\DataH\Desktop\GitHub\OpenCV\OpenCV_Tutorial\OpenCV-Basic\2.矩阵的掩膜操作\image\mat_prt)
+![1536765728598](image/mat_prt)
 
 - 像素值处理函数，保证像素值在0到255
 
-![1536765888941](C:\Users\DataH\Desktop\GitHub\OpenCV\OpenCV_Tutorial\OpenCV-Basic\2.矩阵的掩膜操作\image\image_code.png)
+![1536765888941](image/image_code.png)
 
 ## 2 掩膜操作
 
-![1536766024640](C:\Users\DataH\Desktop\GitHub\OpenCV\OpenCV_Tutorial\OpenCV-Basic\2.矩阵的掩膜操作\image\mat_ym.png)
+![1536766024640](image/mat_ym.png)
 
 通过函数实现掩膜
 
-![1536767129866](C:\Users\DataH\Desktop\GitHub\OpenCV\OpenCV_Tutorial\OpenCV-Basic\2.矩阵的掩膜操作\image\mat_ym_function.png)
+![1536767129866](image/mat_ym_function.png)

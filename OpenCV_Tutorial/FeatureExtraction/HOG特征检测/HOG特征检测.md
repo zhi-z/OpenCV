@@ -16,27 +16,27 @@
 
 ### 1.1 灰度转换
 
-![1536157776117](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/HOG特征检测/image/1536157776117.png)
+![1536157776117](image/1536157776117.png)
 
 ### 1.2 梯度计算
 
-![1536158650495](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/HOG特征检测/image/gradient.png)
+![1536158650495](image/gradient.png)
 
 ### 1.3 分网格的梯度方向直方图
 
-![1536157948450](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/HOG特征检测/image/grid.png)
+![1536157948450](image/grid.png)
 
 ### 1.4 块描述子
 
-![1536158297258](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/HOG特征检测/image/R_HOG.png)
+![1536158297258](image/R_HOG.png)
 
 ### 1.5 块描述子归一化
 
-![1536158444619](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/HOG特征检测/image/L2.png)
+![1536158444619](image/L2.png)
 
 ### 1.6 特征数据与检测窗口
 
-![1536158556329](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/HOG特征检测/image/feature_detetion.png)
+![1536158556329](image/feature_detetion.png)
 
 
 
@@ -44,7 +44,7 @@
 
 HOG+SVM实现行人检测.API:
 
-![1536159012770](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/HOG特征检测/image/API.png)
+![1536159012770](image/API.png)
 
 代码实现:
 

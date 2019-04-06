@@ -17,13 +17,13 @@
 
 与前面的SIFT,SURF有相似点的.前面几步差不多,但是后面提取特征描述子那里有点不一样,找旋转不变性的时候不一致.但是在找关键点之前他也要构建尺度空间,他也要构建金字塔.构建金字塔也不一样.
 
-![1536419843881](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/Brisk特征检测与匹配/image/brish.png)
+![1536419843881](image/brish.png)
 
 尺度空间可以通过高斯金字塔表现出来.特征点查找就是keypoints,特征点定位和SIFT中的泰勒展开及其的相似.
 
 - 关键点描述子
 
-![1536420662228](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/Brisk特征检测与匹配/image/Descriptor.png)
+![1536420662228](image/Descriptor.png)
 
 得到描述子之后,就可以进行匹配了.
 
@@ -77,13 +77,13 @@ int main(int argc, char** argv) {
 
 - 结果
 
-![1536421778010](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/Brisk特征检测与匹配/image/result.png)
+![1536421778010](image/result.png)
 
 通过以上可以看出,这是一个很好的一个keypoints提取.这里在DDM中的第一个D.
 
 有了这个以后,我们就可以进一步找出描述子,第二个D,还有最后一个M\.得到的结果如下:(提取BRISK特征和进行匹配).这里使用BF进行暴力匹配.
 
-![1536422331081](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/Brisk特征检测与匹配/image/result_1.png)
+![1536422331081](image/result_1.png)
 
  
 

@@ -6,7 +6,7 @@
 
 通过特征检测,特征提取.然后通过特征计算得到特征描述子,然后就一与对象进行比对.相对与BF做比较,速度更快.
 
-![1536380392078](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/FLANN特征检测/image/flann.png)
+![1536380392078](image/flann.png)
 
 ## 2 代码演示
 

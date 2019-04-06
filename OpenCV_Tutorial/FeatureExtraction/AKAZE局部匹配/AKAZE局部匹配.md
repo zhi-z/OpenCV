@@ -103,15 +103,15 @@ int main(int argc, char** argv) {
 
 结果:这个结果是matches之后的结果.这个是超级多的,暴力匹配的matches.
 
-![1536417989264](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/AKAZE局部匹配/image/result.png)
+![1536417989264](image/result.png)
 
  经过处理后,得到更好的matches.如图所示:
 
-![1536418614213](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/AKAZE局部匹配/image/result_1.png)
+![1536418614213](image/result_1.png)
 
 通过调整阈值,就是他们的距离到到时才留着,并且把不匹配的关键点不让他们显示,得到的结果如图所示,这样显示的效果就更加好了.
 
-![1536418924769](/home/datah/Desktop/GitHub/OpenCV/OpenCV_Tutorial/FeatureExtraction/AKAZE局部匹配/image/result_3.png)
+![1536418924769](image/result_3.png)
 
 前面的第一个结果是暴力匹配得到的结果,后面两个是经过调整他们匹配点之间的阈值来决定该留住哪些点.
 
